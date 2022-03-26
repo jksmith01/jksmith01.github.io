@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Title
+description: Used for school work CTBA. 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
