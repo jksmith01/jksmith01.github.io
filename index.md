@@ -6,3 +6,4 @@ description: Used to post school work for the Competing Through Business Analyti
 This is the content I've developed for my Competing Through Business Analytics course: 
 
 - [Module 3](/Module3) - Time Series Decomposition and Advanced Graphing Techniques
+- [Module 4](/Module4) - Under Construction
