@@ -1,7 +1,7 @@
-_ _ _
-# Module 3
-### The following files were generated for Module 3 of the CTBA course
-_ _ _
+---
+title: Module 3
+description: The following files were generated for Module 3 of the CTBA course
+---
 #### Graphing 
 
 
