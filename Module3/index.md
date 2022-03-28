@@ -6,8 +6,7 @@ _ _ _
 
 
 #### Time Series Decomposition
-- [Time Series Decomposition Assignment HTML](TimeSeries.HTML)
-- [Time Series Decomposition Assignment Jupyter](TimeSeries.ipynb)
+- Time Series Decomposition Assignment [html](TimeSeries.html) | [Jupyter](TimeSeries.ipynb)
 
 
 
