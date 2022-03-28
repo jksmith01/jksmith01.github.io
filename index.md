@@ -11,4 +11,5 @@ This is the content I've developed for my Competing Through Business Analytics c
 
 ## Repositories
 The following are links to the repository for use. 
-[TimeSeries](https://github.com/jksmith01/TimeSeries)
+
+-[TimeSeries](https://github.com/jksmith01/TimeSeries)
