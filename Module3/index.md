@@ -6,7 +6,7 @@ description: The following files were generated for Module 3 of the CTBA course
 
 
 #### Time Series Decomposition
-- Time Series Decomposition Assignment [html](TimeSeries.html) | [Jupyter](TimeSeries.ipynb)
+- Time Series Decomposition Assignment _[html](TimeSeries.html)_ _[Jupyter](TimeSeries.ipynb)_
 
 
 
